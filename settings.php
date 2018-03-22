@@ -244,21 +244,21 @@
  *   );
  * @endcode
  */
-$databases = array (
-  'default' => 
-  array (
-    'default' => 
-    array (
-      'database' => 'une-drupal',
-      'username' => 'root',
-      'password' => 'root',
-      'host' => 'localhost',
-      'port' => '',
-      'driver' => 'mysql',
-      'prefix' => '',
-    ),
-  ),
-);
+// $databases = array (
+//   'default' =>
+//   array (
+//     'default' =>
+//     array (
+//       'database' => 'une-drupal',
+//       'username' => 'root',
+//       'password' => 'root',
+//       'host' => 'localhost',
+//       'port' => '',
+//       'driver' => 'mysql',
+//       'prefix' => '',
+//     ),
+//   ),
+// );
 
 /**
  * Access control for update.php script.
